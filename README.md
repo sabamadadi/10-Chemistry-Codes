@@ -1,1 +1,1 @@
-# A-little-bit-chemistry-with-python
+# 10 Chemistry Problems
