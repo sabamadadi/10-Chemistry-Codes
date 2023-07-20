@@ -13,7 +13,6 @@ moles_h2o = (moles_h2o2 * stoichiometric_coefficient_h2o) / stoichiometric_coeff
 # Step 3: Print the result
 print("Moles of H2O produced:", moles_h2o)
 
-
 # I2 is produced by the reaction of 0.4235 mol of CuCl2 according to the following equation:  2CuCl2+4KI→2CuI+4KCl+I2
 # How many molecules of I2 are produced?
 # What mass of I2 is produced?
@@ -31,7 +30,6 @@ molecules_i2 = moles_i2 * avogadro_number
 # Step 3: Calculate mass of I2 produced
 molar_mass_i2 = 253.8089  # g/mol
 mass_i2 = moles_i2 * molar_mass_i2
-
 # Step 4: Print the results
 print("Number of molecules of I2 produced:", molecules_i2)
 print("Mass of I2 produced:", mass_i2, "g")
