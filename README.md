@@ -1,8 +1,10 @@
-# 10 Chemistry Problems
+# 10 Chemistry Codes ✅
 
 Final project for Mathematical Software 2 course at Shahid Beheshti University (Spring 2023)
 
 Score: 9 out of 10
+
+Course Instructor: [Alireza Afzal Aghaei](https://github.com/alirezaafzalaghaei)
 
 ## 3D
 This code creates a 3D visualization of a water molecule using the Matplotlib library. The coordinates of the atoms in the water molecule are defined, including the oxygen atom and two hydrogen atoms. The code then creates a 3D plot using the specified coordinates, and uses the `scatter` function to plot each atom as a single point in 3D space. The atoms are colored differently to differentiate between the oxygen and hydrogen atoms.
