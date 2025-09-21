@@ -2,7 +2,7 @@
 
 Final project for Mathematical Software 2 course at Shahid Beheshti University (Spring 2023)
 
-Score: 9 out of 10
+Score: 10 out of 10
 
 Course Instructor: [Alireza Afzal Aghaei](https://github.com/alirezaafzalaghaei)
 
